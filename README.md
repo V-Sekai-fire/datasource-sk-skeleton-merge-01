@@ -12,4 +12,4 @@ Open `project.godot` in the engine and run the main scene.
 
 ## Licence
 
-The repository does not state a licence for itself. The art under `SK_merge_tool/art/` carries its own licences, and so do the `Godot-MToon-Shader`, `skeleton_merge_tool`, `unidot_importer` and `vrm` addons; `addons/godot_sandbox` has no licence file.
+MIT. See [LICENSE](LICENSE).
